@@ -19,6 +19,5 @@
       <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=flat"/>
     </a>
   </div>
+  <h1> Hi there 👋 </h1>
 </section>
-
-### Hi there 👋
