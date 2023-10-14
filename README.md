@@ -6,7 +6,7 @@
     <a href="#" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&logoColor=white&style=flat"/>
     </a>
-    <a href="https://t.me/your_username/xeniya_mv" target="_blank">
+    <a href="https://t.me/xeniya_mv" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-0088cc?logo=telegram&logoColor=white&style=flat"/>
     </a>
     <a href="https://www.instagram.com/gazizova_xeniya" target="_blank">
