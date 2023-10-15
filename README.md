@@ -30,13 +30,13 @@
 
   <table align="center" width="100%">
     <tr>
-      <td align="left" width="60%">
+      <td align="left" width="50%">
         <h3>:woman_technologist: About Me </h3>
         <p>
           My name is Xeniya, and I am a Front-End Developer from <b>Astana, Kazakhstan</b>, currently living in <b>California, USA</b>.
         </p>
       </td>
-      <td align="right" width="40%">
+      <td align="right" width="50%">
         <img src="./assets/coding.jpg" alt="image" width="450px" height="350px" />
       </td>
     </tr>
