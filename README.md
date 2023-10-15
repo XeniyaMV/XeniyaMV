@@ -27,10 +27,20 @@
   <h1> Hi there 👋 </h1>
 </section>
 <section class="about-me">
-  <div align="center">
-    <img src="./assets/coding.jpg" alt="image" width="500px" height="400px" />
-  </div>
 
-  ### :woman_technologist: About Me :
+  <table align="center" width="100%">
+    <tr>
+      <td align="left">
+        <h3>:woman_technologist: About Me </h3>
+        <p> My name is Xeniya, and I am a Front-End Developer from :kazakhstan: **Astana, Kazakhstan**, currently living in :us: **California
+            , USA**.
+      </td>
+      <td align="right">
+        <img src="./assets/coding.jpg" alt="image" width="450px" height="350px" />
+      </td>
+    </tr>
+  </table>
+
 </section>
+
 
