@@ -30,5 +30,7 @@
   <div align="center">
     <img src="./assets/coding.jpg" alt="image" width="500px" height="400px" />
   </div>
+
   ### :woman_technologist: About Me :
 </section>
+
