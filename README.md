@@ -27,10 +27,10 @@
   <h1> Hi there 👋 </h1>
 </section>
 <section class="about-me">
+  <h2>:woman_technologist: About Me </h2>
   <table align="center" width="100%">
     <tr>
       <td align="left" width="50%">
-        <h3>:woman_technologist: About Me </h3>
         <p>
           My name is Xeniya, and I am a Front-End Developer from <b>Astana, Kazakhstan</b>, currently living in <b>California, USA</b>.
         </p>
@@ -42,7 +42,7 @@
   </table>
 </section>
 <section>
-  <h3> :hammer_and_wrench: Languages and Tools </h3>
+  <h2> :hammer_and_wrench: Languages and Tools </h2>
   <div class="icons">
     <a href="https://react.dev/">
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
