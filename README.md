@@ -36,7 +36,7 @@
         </p>
       </td>
       <td align="right" width="50%">
-        <img src="./assets/coding.jpg" alt="image" width="450px" height="350px" />
+        <img src="./assets/coding.jpg" alt="image" width="100%" height="100%" />
       </td>
     </tr>
   </table>
