@@ -77,3 +77,14 @@
     </a>
   </div>
 </section>
+<section class="stats" >
+  <h2>:fire: My Stats</h2>
+  <div class="stats__view" align="center" >
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=xeniyamv&background=45%2C65FFAC%2CFEA1FFF9&ring=FFFFFF&fire=FFFFFF&currStreakLabel=1E4C34" alt="GitHub Streak" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeniyamv&layout=compact&theme=vue" width="350" alt="Top Langs"/>
+    </a>
+  </div>
+</section>
