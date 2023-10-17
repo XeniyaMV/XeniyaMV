@@ -1,6 +1,6 @@
 <section class="start-screen" align="center">
   <div class="start-image">
-    <img src="./assets/link_gif.gif" width="400px" height="300px"/>
+    <img src="./assets/link_gif.gif" width="350px" />
   </div>
   <div class="badges">
     <div class="badges__social-media-links">
@@ -35,8 +35,8 @@
           My name is Xeniya, and I am a Front-End Developer from <b>Astana, Kazakhstan</b>, currently living in <b>California, USA</b>.
         </p>
       </td>
-      <td align="right" width="50%">
-        <img src="./assets/coding.jpg" alt="image" width="100%" height="100%" />
+      <td align="center" width="50%">
+        <img src="./assets/coding.jpg" alt="image" width="65%" />
       </td>
     </tr>
   </table>
