@@ -4,7 +4,7 @@
   </div>
   <div class="badges">
     <div class="badges__social-media-links">
-      <a href="#" target="_blank">
+      <a href="https://www.linkedin.com/in/xeniya-gazizova/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&logoColor=white&style=flat"/>
       </a>
       <a href="https://t.me/xeniya_mv" target="_blank">
@@ -32,7 +32,7 @@
     <tr>
       <td align="left" width="50%">
         <p>
-          My name is Xeniya, and I am a Front-End Developer from <b>Astana, Kazakhstan</b>, currently living in <b>California, USA</b>.
+          My name is Xeniya, and I am a Frontend Developer originally from <b>Astana, Kazakhstan</b>, currently based in <b>California, USA</b>. I am passionate about transforming static designs into beautiful, interactive, and dynamic user experiences. I am open to new challenges that help me grow and enhance my skills, and I am always eager to learn and improve.
         </p>
       </td>
       <td align="center" width="50%">
